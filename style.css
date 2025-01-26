@@ -23,6 +23,7 @@ input{
     padding: 15px;
 }
 .searchbox{
+    border-radius: 2px;
     padding: 50px;
     text-align: center;
 }
